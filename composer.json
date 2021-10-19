@@ -1,0 +1,16 @@
+{
+    "name": "anthony/composer1",
+    "description": "Projet quete composer 2",
+    "autoload": {
+        "psr-4": {
+            "Anthony\\Composer1\\": "App/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Anthony69600",
+            "email": "a.verchere69@gmail.com"
+        }
+    ],
+    "require": {}
+}
