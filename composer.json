@@ -1,9 +1,9 @@
 {
-    "name": "anthony/composer1",
+    "name": "anthony/composer2",
     "description": "Projet quete composer 2",
     "autoload": {
         "psr-4": {
-            "Anthony\\Composer1\\": "App/"
+            "Anthony\\Composer2\\": "App/"
         }
     },
     "authors": [
